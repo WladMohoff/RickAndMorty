@@ -1,0 +1,25 @@
+.wrapper {
+  width: 100%;
+  height: 60px;
+  background-color: rgb(110, 214, 180);
+  display: flex;
+  justify-content: space-between;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+} 
+.theme {
+  width: 38px;
+  height: 38px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.language {
+  width: 38px;
+  height: 38px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
