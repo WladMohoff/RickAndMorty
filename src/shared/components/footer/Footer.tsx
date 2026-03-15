@@ -4,7 +4,7 @@ export function Footer() {
   return (
     <footer>
       <div className={styles.wrapper}>
-        <p className={styles.credits}>Made with love by frontovichok_username</p>
+        <p className={styles.credits}>Сделано с любовью от VladMohoff</p>
       </div>
     </footer>
   )
